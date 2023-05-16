@@ -22,6 +22,5 @@ For the full project report you can check out the PDF in this repository
 5.![EDA with Visulaization Lab](https://github.com/AsmaaJittou/SpaceX-Falcon-9-Rocket-Launch-Capstone-Project/blob/main/5_Data_Viz_eda.ipynb) <br/>
 6.![Interactive Map Analytics with Folium](https://github.com/AsmaaJittou/SpaceX-Falcon-9-Rocket-Launch-Capstone-Project/blob/main/6_Data_Vis_launch_site_location_Folium.ipynb) <br/>
 7.![Space-X Machine Learning Prediction](https://github.com/AsmaaJittou/SpaceX-Falcon-9-Rocket-Launch-Capstone-Project/blob/main/7_Machine_Learning_Prediction.ipynb) <br/>
-8.![Project Presentation](https://github.com/AsmaaJittou/SpaceX-Falcon-9-Rocket-Launch-Capstone-Project/blob/main/presentation
-/Project_SpaceX_Falcon_Rocket_Presentation.pdf) <br/>
+8.![Project Presentation](https://github.com/AsmaaJittou/SpaceX-Falcon-9-Rocket-Launch-Capstone-Project/blob/main/presentation/Project_SpaceX_Falcon_Rocket_Presentation.pdf)
 
