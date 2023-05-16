@@ -15,13 +15,13 @@ In the end we conclude that the Decision Tree may be the best machine learning a
 For the full project report you can check out the PDF in this repository
 
 ## Table of Contents :
-1.![Data Collection with API](https://github.com/AsmaaJittou/SpaceX-Falcon-9-Rocket-Launch-Capstone-Project/blob/main/1-Data_Collection_Api.ipynb)
-2.![Data Collection with Web Scraping](https://github.com/AsmaaJittou/SpaceX-Falcon-9-Rocket-Launch-Capstone-Project/blob/main/2_Data_Collection_webscraping.ipynb)
-3.![Data Wrangling (Pandas & Numpy)](https://github.com/AsmaaJittou/SpaceX-Falcon-9-Rocket-Launch-Capstone-Project/blob/main/3_Data_wrangling_spacex.ipynb)
-4.![EDA with SQL (SQL sever queries)](https://github.com/AsmaaJittou/SpaceX-Falcon-9-Rocket-Launch-Capstone-Project/blob/main/4_Data_Analysis_SQL_EDA.ipynb)
-5.![EDA with Visulaization Lab](https://github.com/AsmaaJittou/SpaceX-Falcon-9-Rocket-Launch-Capstone-Project/blob/main/5_Data_Viz_eda.ipynb)
-6.![Interactive Map Analytics with Folium](https://github.com/AsmaaJittou/SpaceX-Falcon-9-Rocket-Launch-Capstone-Project/blob/main/6_Data_Vis_launch_site_location_Folium.ipynb)
-7.![Space-X Machine Learning Prediction](https://github.com/AsmaaJittou/SpaceX-Falcon-9-Rocket-Launch-Capstone-Project/blob/main/7_Machine_Learning_Prediction.ipynb)
+1.![Data Collection with API](https://github.com/AsmaaJittou/SpaceX-Falcon-9-Rocket-Launch-Capstone-Project/blob/main/1-Data_Collection_Api.ipynb) <br/>
+2.![Data Collection with Web Scraping](https://github.com/AsmaaJittou/SpaceX-Falcon-9-Rocket-Launch-Capstone-Project/blob/main/2_Data_Collection_webscraping.ipynb) <br/>
+3.![Data Wrangling (Pandas & Numpy)](https://github.com/AsmaaJittou/SpaceX-Falcon-9-Rocket-Launch-Capstone-Project/blob/main/3_Data_wrangling_spacex.ipynb) <br/>
+4.![EDA with SQL (SQL sever queries)](https://github.com/AsmaaJittou/SpaceX-Falcon-9-Rocket-Launch-Capstone-Project/blob/main/4_Data_Analysis_SQL_EDA.ipynb) <br/>
+5.![EDA with Visulaization Lab](https://github.com/AsmaaJittou/SpaceX-Falcon-9-Rocket-Launch-Capstone-Project/blob/main/5_Data_Viz_eda.ipynb) <br/>
+6.![Interactive Map Analytics with Folium](https://github.com/AsmaaJittou/SpaceX-Falcon-9-Rocket-Launch-Capstone-Project/blob/main/6_Data_Vis_launch_site_location_Folium.ipynb) <br/>
+7.![Space-X Machine Learning Prediction](https://github.com/AsmaaJittou/SpaceX-Falcon-9-Rocket-Launch-Capstone-Project/blob/main/7_Machine_Learning_Prediction.ipynb) <br/>
 8.![Project Presentation](https://github.com/AsmaaJittou/SpaceX-Falcon-9-Rocket-Launch-Capstone-Project/blob/main/presentation
-/Project_SpaceX_Falcon_Rocket_Presentation.pdf) 
+/Project_SpaceX_Falcon_Rocket_Presentation.pdf) <br/>
 
